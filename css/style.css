@@ -1824,7 +1824,7 @@ img.check-icon {
 
 p.banner-high {
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
   padding-bottom: 10px;
   letter-spacing: 0.6px;
   background-color: #0000007d;
@@ -1872,6 +1872,9 @@ p.banner-high {
   position: relative !important;
 }
 
+.stright-line{
+  display: flex;
+}
 @keyframes price-blink {
   50% {
     color: #ffa500;
