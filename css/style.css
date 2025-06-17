@@ -3960,3 +3960,86 @@ button.btn-close {
 .bg-color {
   background-color: #856d47;
 }
+
+
+
+
+@media (max-width: 768px) {
+  .slide-text {
+    padding: 10px 8px;
+    text-align: center;
+  }
+
+  .slide-text h2 {
+    font-size: 1.3rem;
+    line-height: 1.1;
+    margin-bottom: 8px;
+  }
+
+  .slide-text small {
+    font-size: 0.75rem;
+    margin-bottom: 5px;
+  }
+
+  p.banner-high {
+    font-size: 11.5px;
+    padding: 4px 7px;
+    margin: 3px auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    line-height: 1.3;
+  }
+
+  .banner-typology-detail,
+  .banner-price-detail {
+    font-size: 11px;
+    padding: 4px 8px;
+    border-radius: 16px;
+    display: inline-block;
+    max-width: 90%;
+  }
+
+  .query-btn {
+    font-size: 12px;
+    padding: 7px 14px;
+    border-radius: 18px;
+  }
+
+  input, textarea {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  input[type="text"], input[type="email"], textarea {
+    border-radius: 6px;
+  }
+
+  .container.banner-text {
+    padding: 0 10px;
+  }
+
+  .col-lg-6.static {
+    width: 100%;
+  }
+
+  .form-control {
+    font-size: 12px;
+  }
+
+  .btn, .submit-btn, .query-btn {
+    font-size: 12px !important;
+  }
+
+  .enquire-btn {
+    font-size: 13px;
+    padding: 10px 0;
+  }
+
+  .book-visit-text {
+    font-size: 13px;
+    margin: 6px 0;
+  }
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+}
