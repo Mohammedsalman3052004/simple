@@ -3,15 +3,15 @@
 
 
 
-<!-- Mirrored from godrejsbangalore.com/godrej-shettigere/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:58:22 GMT -->
+<!-- Mirrored from godrejsbangalore.com/godrej-Sarjapur/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:58:22 GMT -->
 <head>
    
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Godrej MSR City | 2 & 3 BHK APARTMENTS | Shettigere Devanahalli, Bangalore </title>
+   <title>Godrej Lakeside Orchard | 2 & 3 BHK APARTMENTS | Sarjapur Devanahalli, Bangalore </title>
    <meta name="description"
-      content="The growing demand for homes in quieter, well-connected areas is driving interest in Shettigere’s real estate market.   ">
-   <meta name="keywords" content="Godrej MSR City , 2 & 3 BHK APARTMENTS , Shettigere Devanahalli, Bangalore">
+      content="The growing demand for homes in quieter, well-connected areas is driving interest in Sarjapur’s real estate market.   ">
+   <meta name="keywords" content="Godrej MSR City , 2 & 3 BHK APARTMENTS , Sarjapur Devanahalli, Bangalore">
    <link rel="shortcut icon" href="favicon1.ico" type="image/x-icon">
 
 
@@ -41,6 +41,7 @@
 
       gtag('config', 'AW-11479147588');
    </script>
+   
    <style>
       .modal-content .modal-body {
          display: flex;
@@ -190,7 +191,7 @@
          <div class="col-lg-6 static">
             <div class="slide-text white">
                <small class="owl-slide-animated owl-slide-title">
-                  Shettigere Devanahalli, Bangalore</small>
+                  Sarjapur Devanahalli, Bangalore</small>
                <h2 class="owl-slide-animated owl-slide-title-2 banner-head">Barca at Godrej MSR City</h2>
                <!-- <img src="img/logo-assetz.png" alt="" class="project-logo"> -->
                <p class="banner-high">
@@ -318,10 +319,10 @@
                   <div class="intro">
                      <div class="title">
                         <small>Overview </small>
-                        <h2>Godrej MSR City - Shettigere, Devanahalli, Bangalore</h2>
+                        <h2>Godrej MSR City - Sarjapur, Devanahalli, Bangalore</h2>
                      </div>
-                     <!-- <p>Introducing Godrej MSR City – Magnificent apartments in Shettigere Devanahalli, Bangalore.</p> -->
-                     <p>Each residence at Godrej MSR City, Shettigere, Bangalore is a masterpiece of design and functionality. The 2 and 3 BHK apartments, ranging from 1,186 to 1,876 sq. ft., are thoughtfully designed to maximize space and natural light. Premium finishes, expansive balconies, and state-of-the-art amenities coalesce to create homes that are both elegant and inviting.
+                     <!-- <p>Introducing Godrej MSR City – Magnificent apartments in Sarjapur Devanahalli, Bangalore.</p> -->
+                     <p>Each residence at Godrej MSR City, Sarjapur, Bangalore is a masterpiece of design and functionality. The 2 and 3 BHK apartments, ranging from 1,186 to 1,876 sq. ft., are thoughtfully designed to maximize space and natural light. Premium finishes, expansive balconies, and state-of-the-art amenities coalesce to create homes that are both elegant and inviting.
                      </p>
                   </div>
                </div>
@@ -818,7 +819,7 @@
    <div class="mobile-section-footer">
       <a href="#" class="btn" title="Enquire Now" data-toggle="modal" data-target="#exampleModal"> Enquire
          Now</a>
-      <!-- <a href="https://api.whatsapp.com/send?phone=+916364468645%20&amp;text=Hello,%20Looking%20for%20Godrej%20MSR%20City%20at%20Shettigere,%20Bangalore.%20Get%20in%20touch%20with%20me%20my%20name%20is"
+      <!-- <a href="https://api.whatsapp.com/send?phone=+916364468645%20&amp;text=Hello,%20Looking%20for%20Godrej%20MSR%20City%20at%20Sarjapur,%20Bangalore.%20Get%20in%20touch%20with%20me%20my%20name%20is"
          class="btn"> Whats App</a> -->
       <!-- <a href="tel:+916364468645" class="btn"> Call Now</a> -->
    </div>
@@ -988,7 +989,7 @@
                   <div class="banner-form-section" autocomplete="off">
                      <h3 class="modal-head">Godrej MSR City</h3>
                      <!-- <img class="modal-popup-logo img-fluid" src="img/logo-assetz.png" alt=""> -->
-                     <p class="modal-para"> Shettigere Devanahalli, Bangalore</p>
+                     <p class="modal-para"> Sarjapur Devanahalli, Bangalore</p>
                      <div class="row">
                         <div id="note3"></div>
 
@@ -1064,7 +1065,7 @@
                         <div class="banner-form-section" autocomplete="off">
                            <h5 class="modal-head text-center">Godrej MSR City</h5>
                            <!-- <img class="modal-popup-logo img-fluid" src="img/logo-assetz.png" alt=""> -->
-                           <p class="modal-para"> Shettigere Devanahalli, Bangalore</p>
+                           <p class="modal-para"> Sarjapur Devanahalli, Bangalore</p>
                            <div class="row">
                               <div id="note4"></div>
 
@@ -1417,5 +1418,5 @@
 </body>
 
 
-<!-- Mirrored from godrejsbangalore.com/godrej-shettigere/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:59:00 GMT -->
+<!-- Mirrored from godrejsbangalore.com/godrej-Sarjapur/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:59:00 GMT -->
 </html>
