@@ -4,13 +4,23 @@
 
 
 <!-- Mirrored from godrejsbangalore.com/godrej-Sarjapur/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:58:22 GMT -->
+
 <head>
-   
+   <!-- Google Tag Manager -->
+   <script>(function (w, d, s, l, i) {
+         w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+               new Date().getTime(), event: 'gtm.js'
+         }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+               'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-PTTQ35JT');</script>
+   <!-- End Google Tag Manager -->
+
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>Godrej Lakeside Orchard | 2 & 3 BHK APARTMENTS | Sarjapur Devanahalli, Bangalore </title>
-   <meta name="description"
-      content="The growing demand for homes in quieter, well-connected areas is driving interest in Sarjapur’s real estate market.   ">
+   <meta name="description" content="The growing demand for, Sarjapur Devanahalli, Bangalore">
    <meta name="keywords" content="Godrej MSR City , 2 & 3 BHK APARTMENTS , Sarjapur Devanahalli, Bangalore">
    <link rel="shortcut icon" href="favicon1.ico" type="image/x-icon">
 
@@ -26,22 +36,21 @@
       rel="stylesheet">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/css/intlTelInput.css">
    <link href="css/bootstrap.min.css" rel="stylesheet">
-<!-- 
+   <!-- 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"> -->
-   
+
    <link href="css/style.css" rel="stylesheet">
    <link rel="stylesheet" href="css/magnific-popup.css">
 
    <!-- Google tag (gtag.js) -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11479147588"></script>
+   <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11479147588"></script>
    <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
 
       gtag('config', 'AW-11479147588');
-   </script>
-   
+   </script> -->
    <style>
       .modal-content .modal-body {
          display: flex;
@@ -94,26 +103,22 @@
       }
    </style>
 
-
-
-
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16769158878"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17193713614"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'AW-16769158878');
+  gtag('config', 'AW-17193713614');
 </script>
 
 
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
+<script>
 
-
-
-
-
+   gtag('config', 'AW-17193713614');
+</script>
 
 
 
@@ -121,12 +126,38 @@
 </head>
 
 <body data-spy="scroll" data-offset="120" data-target="#mainNav">
+   <amp-analytics type="gtag" data-credentials="include">
+  <script type="application/json">
+  {
+    "vars": {
+      "gtag_id": "AW-17193713614",
+      "config": {
+        "AW-17193713614": {
+          "groups": "default"
+        }
+      }
+    },
+    "triggers": {
+      "C_9Rf0dou5Ms0": {
+        "on": "visible",
+        "vars": {
+          "event_name": "conversion",
+          "value": 1.0,
+          "currency": "INR",
+          "send_to": ["AW-17193713614/O2N2CIin0d0aEM7_zIZA"]
+        }
+      }
+    }
+  }
+  </script>
+</amp-analytics>
    <header class="fixed_header menu_v1 submenu_version">
       <!-- <div class="layer"></div> -->
+       
       <div class="container">
          <div class="row align-items-center justify-content-between">
             <div class="col-md-2 col-5">
-               <a href="index-2.html" class="destop-logo-sec my_logo"><img src="img/project-logo.webp" width="180"
+               <a href="index.php" class="destop-logo-sec my_logo"><img src="img/project-log.png" width="180"
                      height="34" alt="" class="img-fluid"></a>
             </div>
             <div class="col-md-10 col-5 d-flex justify-content-end align-items-center ">
@@ -134,17 +165,17 @@
                      src="img/pt-logo.png" alt="" class="img-fluid"></a> -->
                <div class="main-menu">
                   <a href="#" class="closebt open_close_menu"><i class="bi bi-x"></i></a>
-                  <div class="logo_panel"><img src="img/project-logo.webp" alt=""></div>
+                  <div class="logo_panel"><img src="img/project-log.png" alt=""></div>
                   <nav id="mainNav">
                      <ul>
                         <li class="my-custom"><a href="#" class="btn_1 nav-link-custom ">Home</a></li>
                         <li><a href="#overview" class="nav-link-custom my-custom">Overview</a></li>
-                        <li><a href="#highlights" class="nav-link-custom my-custom">Highlights</a></li>
+                        <!-- <li><a href="#highlights" class="nav-link-custom my-custom">Highlights</a></li> -->
                         <li><a href="#price" class="nav-link-custom my-custom">Price</a></li>
                         <li><a href="#amenities" class="nav-link-custom my-custom">Amenities</a></li>
                         <li><a href="#floor-plans" class="nav-link-custom my-custom">Floor Plans</a></li>
-                        <li><a href="#gallery" class="nav-link-custom my-custom">Gallery</a></li>
                         <li><a href="#location" class="nav-link-custom my-custom">Location</a></li>
+                        <li><a href="#gallery" class="nav-link-custom my-custom">Gallery</a></li>
                         <!-- <li><a href="#contact-us" class="nav-link-custom ">Contact Us</a></li> -->
                         <!-- <li><a href="tel:+916364468645" class="head-call">+91 6364468645</a></li> -->
                         <!-- <li class="logo-d"> <a href="https://sanctuary-bangalore.co.in/"
@@ -169,7 +200,7 @@
       style="position: relative; background-image: url(img/banner/banner1.webp);">
       <div class="carousel-inner">
          <div class="carousel-item active">
-            <img class="d_sm_none w-100" src="img/banner/banner1.webp" alt="First slide">
+            <img class="d_sm_none w-100" src="img/banner/banner4.webp" alt="First slide">
             <img class="d_sm_block w-100" src="img/banner/banner1-sm.webp" alt="First slide">
          </div>
          <div class="carousel-item">
@@ -187,24 +218,26 @@
       </a>
    </div>
    <div class="container banner-text">
+      <h1 class="d-none">Barca at Godrej Sarjapur</h1>
+
       <div class="row justify-content-center justify-content-md-start">
          <div class="col-lg-6 static">
             <div class="slide-text white">
                <small class="owl-slide-animated owl-slide-title">
-                  Sarjapur Devanahalli, Bangalore</small>
-               <h2 class="owl-slide-animated owl-slide-title-2 banner-head">Barca at Godrej MSR City</h2>
+                  Sarjapura Road, Bangalore</small>
+               <h2 class="owl-slide-animated owl-slide-title-2 banner-head">Godrej Lakeside Orchard, Sarjapur</h2>
                <!-- <img src="img/logo-assetz.png" alt="" class="project-logo"> -->
                <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
-                  Meticulously planned 60 Acres township
+                  Spread across lush landscapes with thoughtfully designed green zones
                </p>
                <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
-                  Over 70% open spaces
+                  Iconic 47,200 sq. ft. Clubhouse with exclusive lifestyle offerings
                </p>
                <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
-                  A sprawling 1.5 lakh sq. ft. clubhouse 
+                  Just 6 mins from RGA Tech Park - Perfect blend of work and life
                </p>
                <!-- <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
@@ -212,19 +245,22 @@
                   </p> -->
                <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
-                  Launching Barca at Godrej MSR City - 6 Towers
-
+                  40+ World-Class Amenities including infinity-edge pool, co-working spaces, wellness zones & more
                </p>
                <p class="banner-high">
                   <img class="check-icon" src="img/check-mark.png" alt="">
-                  A Vibe that's straight out of Europe 
+                  Limited homes with private balconies and expansive interiors
                </p>
-               
+               <p class="banner-high">
+                  <img class="check-icon" src="img/check-mark.png" alt="">
+                  Prime location in Sarjapur - the city's fastest-growing tech and residential hub
+               </p>
+
                <div class="banner-typology">
-                  <span class="banner-typology-detail">2 & 3 BHK APARTMENTS</span>
+                  <span class="banner-typology-detail">3 BHK + 2T & 3 BHK + 3T APARTMENTS</span>
                </div>
                <div class="banner-price">
-                  <span class="banner-price-detail price_detail">Starting Price : ₹<span> </span> 1.23 Cr*
+                  <span class="banner-price-detail price_detail">Starting Price : ₹<span> </span> 2 Cr*
                      Onwards</span>
                </div>
                <div class="dekstop_btn">
@@ -240,54 +276,57 @@
    </div> -->
    <form action="" id="form1">
 
-   <div class="banner-form">
-      <h2 class="form-heading">Book A Site Visit </h2>
-      <div class="banner-form-section" autocomplete="off">
-         <div class="row">
-            <div id="note1"></div>
+      <div class="banner-form">
+         <h2 class="form-heading">Book A Site Visit </h2>
+         <div class="banner-form-section" autocomplete="off">
+            <div class="row">
+               <div id="note1"></div>
 
-            <div class="col-sm-12">
-               <div class="form-floating mb-3">
-                  <input class="form-control" type="text" id="name_contact" name="name_contact" placeholder="Name">
-                  <label for="name_contact">Name</label>
+               <div class="col-sm-12">
+                  <div class="form-floating mb-3">
+                     <input class="form-control" type="text" id="name_contact" name="name_contact" placeholder="Name"
+                        required>
+                     <label for="name_contact">Name</label>
+                  </div>
+               </div>
+               <div class="col-sm-12">
+                  <div class="form-floating  mb-3">
+                     <input class="phone-input form-control " type="text" id="phone_contact" name="phone_contact"
+                        placeholder="Contact No." required>
+                     <!-- <label for="phone_contact">Contact No.</label> -->
+                  </div>
                </div>
             </div>
-            <div class="col-sm-12">
-               <div class="form-floating  mb-3">
-                  <input class="phone-input form-control " type="text" id="phone_contact" name="phone_contact"
-                     placeholder="Contact No.">
-                  <!-- <label for="phone_contact">Contact No.</label> -->
+            <div class="row">
+               <div class="col-sm-12">
+                  <div class="form-floating mb-3">
+                     <input class="form-control" type="email" id="email_contact" name="email_contact"
+                        placeholder="Email" required>
+                     <label for="email_contact">Email</label>
+                  </div>
+               </div>
+               <div class="col-sm-12">
+                  <div class="form-floating mb-3">
+                     <input class="form-control" placeholder="Message" id="message_contact"
+                        name="message_contact"></input>
+                     <label for="message_contact">Message</label>
+                  </div>
                </div>
             </div>
-         </div>
-         <div class="row">
-            <div class="col-sm-12">
-               <div class="form-floating mb-3">
-                  <input class="form-control" type="email" id="email_contact" name="email_contact" placeholder="Email">
-                  <label for="email_contact">Email</label>
+            <div class="row">
+               <div class="col-md-12 mb-2">
+                  <p class="footer-submit-btn"><input class="btn_1 outline white" type="submit" value="Submit"
+                        id="submit-contact"></p>
                </div>
             </div>
-            <div class="col-sm-12">
-               <div class="form-floating mb-3">
-                  <input class="form-control" placeholder="Message" id="message_contact" name="message_contact"></input>
-                  <label for="message_contact">Message</label>
-               </div>
+            <div class="inp-box">
+               <input type="checkbox" checked="" id="vehicle1" name="vehicle1" value="form-checkbox">
+               <label for="vehicle1" class="inp-txt"> I authorize company representatives to Call, SMS, Email
+                  or WhatsApp me about its products and offers. This consent overrides any registration for
+                  DNC/NDNC.</label>
             </div>
-         </div>
-         <div class="row">
-            <div class="col-md-12 mb-2">
-               <p class="footer-submit-btn"><input class="btn_1 outline white" type="submit" value="Submit"
-                     id="submit-contact"></p>
-            </div>
-         </div>
-         <div class="inp-box">
-            <input type="checkbox" checked="" id="vehicle1" name="vehicle1" value="form-checkbox">
-            <label for="vehicle1" class="inp-txt"> I authorize company representatives to Call, SMS, Email
-               or WhatsApp me about its products and offers. This consent overrides any registration for
-               DNC/NDNC.</label>
          </div>
       </div>
-   </div>
    </form>
 
 
@@ -319,10 +358,16 @@
                   <div class="intro">
                      <div class="title">
                         <small>Overview </small>
-                        <h2>Godrej MSR City - Sarjapur, Devanahalli, Bangalore</h2>
+                        <h2>Godrej Lakeside Orchard - Premium Apartments on Sarjapur Road, Bangalore</h2>
                      </div>
                      <!-- <p>Introducing Godrej MSR City – Magnificent apartments in Sarjapur Devanahalli, Bangalore.</p> -->
-                     <p>Each residence at Godrej MSR City, Sarjapur, Bangalore is a masterpiece of design and functionality. The 2 and 3 BHK apartments, ranging from 1,186 to 1,876 sq. ft., are thoughtfully designed to maximize space and natural light. Premium finishes, expansive balconies, and state-of-the-art amenities coalesce to create homes that are both elegant and inviting.
+                     <p>
+                        Experience elegant lakeside living with 3, 3.5, and 4.5 BHK homes featuring private balconies
+                        and scenic views. With just 4 homes per floor and minimal shared walls, privacy is a priority.
+                        Enjoy 6 acres of open space, over 700 trees, and a 1.9-acre podium garden. The project offers
+                        40+ top-class amenities including a gym, swimming pool, and butterfly park.
+                        Located near top schools, hospitals, malls, and tech parks, with excellent connectivity to
+                        Carmelaram Railway Station and the upcoming metro line.
                      </p>
                   </div>
                </div>
@@ -333,7 +378,7 @@
          </div>
       </div>
       <div class="bg_white common_section" id="highlights">
-         <div class="container margin_80">
+         <!-- <div class="container margin_80">
             <div class="row justify-content-between d-flex align-items-center">
                <div class="col-lg-6">
                   <div class="pinned-image rounded_container pinned-image--small mb-4">
@@ -345,7 +390,7 @@
                <div class="col-lg-5">
                   <div class="title">
                      <small data-cue="slideInUp">Highlights</small>
-                     <h2 data-cue="slideInUp" data-delay="100">A Symphony of Elegance and Innovation 
+                     <h2 data-cue="slideInUp" data-delay="100">A Symphony of Elegance and Innovation
                      </h2>
                      <div class="high-details">
                         <span><img class="icon-high" src="img/icon.png" alt=""></span>
@@ -370,39 +415,40 @@
                   </div>
                </div>
             </div>
-         </div>
+         </div> -->
          <div class="marquee micro-site">
             <div class="track">
-               <div class="content">&nbsp; Godrej MSR City Godrej MSR City Godrej MSR City Godrej MSR City
+               <div class="content">&nbsp; Godrej Lakeside Orchard Godrej Lakeside Orchard Godrej Lakeside Orchard
+                  Godrej Lakeside Orchard
                </div>
             </div>
          </div>
       </div>
-   
-      
-      <div class="bg_white common_section">
+
+
+      <!-- <div class="bg_white common_section">
          <div class="container margin_80">
             <div class="row justify-content-between d-flex align-items-center">
                <div class="col-lg-5">
-                  <div >
+                  <div>
                      <div class="">
                         <img src="img/barcaimg.png" alt="highlight-img" class="img-fluid">
                      </div>
                   </div>
                </div>
                <div class="col-lg-5">
-                  <div >
+                  <div>
                      <div class="">
                         <img src="img/chch.png" alt="highlight-img" class="img-fluid">
                      </div>
                   </div>
                </div>
-              
-             
+
+
             </div>
          </div>
-       
-      </div>   
+
+      </div> -->
       <section class="price-section margin_80 common_section" data-jarallax data-speed="0.2" id="price">
          <div class="container">
             <div class="title col-12 text-center mb-5">
@@ -434,39 +480,38 @@
                      </div>
                   </div>
                </div>-->
-               <div class="col-md-4 mb-3">
+               <!-- <div class="col-md-4 mb-3">
                   <div class="price-box">
                      <div class="typology">
                         2 BHK
                      </div>
                      <div class="price-details">
-                        <span class="rupee"> ₹</span> 1.23 Cr*<br>
-                        <!-- <span class="rupee">(FRC + PLC)</span> -->
+                        <span class="rupee"> ₹</span> 1.58 Cr*<br>
                         <span class="onwards-price">Onwards</span>
                      </div>
                      <div class="size-detail">
                         <sapn>Size</sapn>
-                        <sapn>1200-1300 Sq. Ft</sapn>
+                        <sapn>1270 Sq. Ft</sapn>
                      </div>
                      <div class="micro-btn">
                         <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
                            Know </button>
                      </div>
                   </div>
-               </div>
+               </div> -->
                <div class="col-md-4 mb-3">
                   <div class="price-box">
                      <div class="typology">
                         3 BHK (2T)
                      </div>
                      <div class="price-details">
-                        <span class="rupee"> ₹</span> 1.49 Cr*<br>
+                        <span class="rupee"> ₹</span> 1.95 Cr*<br>
                         <!-- <span class="rupee">(FRC + PLC)</span> -->
                         <span class="onwards-price">Onwards</span>
                      </div>
                      <div class="size-detail">
                         <sapn>Size</sapn>
-                        <sapn>1600-1650 Sq. Ft</sapn>
+                        <sapn>1580 Sq. Ft</sapn>
                      </div>
                      <div class="micro-btn">
                         <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
@@ -480,13 +525,13 @@
                         3 BHK (3T)
                      </div>
                      <div class="price-details">
-                        <span class="rupee"> ₹</span> 1.49 Cr*<br>
+                        <span class="rupee"> ₹</span> 2.12 Cr*<br>
                         <!-- <span class="rupee">(FRC + PLC)</span> -->
                         <span class="onwards-price">Onwards</span>
                      </div>
                      <div class="size-detail">
                         <sapn>Size</sapn>
-                        <sapn>1850-1900 Sq. Ft</sapn>
+                        <sapn>1790 Sq. Ft</sapn>
                      </div>
                      <div class="micro-btn">
                         <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
@@ -494,8 +539,106 @@
                      </div>
                   </div>
                </div>
+               <div class="col-md-4 mb-3">
+                  <div class="price-box">
+                     <div class="typology">
+                        3 BHK (3T)
+                     </div>
+                     <div class="price-details">
+                        <span class="rupee"> ₹</span> 2.3 Cr*<br>
+                        <!-- <span class="rupee">(FRC + PLC)</span> -->
+                        <span class="onwards-price">Onwards</span>
+                     </div>
+                     <div class="size-detail">
+                        <sapn>Size</sapn>
+                        <sapn>1944 Sq. Ft</sapn>
+                     </div>
+                     <div class="micro-btn">
+                        <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
+                           Know </button>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-4 mb-3">
+                  <div class="price-box">
+                     <div class="typology">
+                        3 BHK (3T)
+                     </div>
+                     <div class="price-details">
+                        <span class="rupee"> ₹</span> 2.45 Cr*<br>
+                        <!-- <span class="rupee">(FRC + PLC)</span> -->
+                        <span class="onwards-price">Onwards</span>
+                     </div>
+                     <div class="size-detail">
+                        <sapn>Size</sapn>
+                        <sapn>2089 Sq. Ft</sapn>
+                     </div>
+                     <div class="micro-btn">
+                        <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
+                           Know </button>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-4 mb-3">
+                  <div class="price-box">
+                     <div class="typology">
+                        3 BHK (3T)
+                     </div>
+                     <div class="price-details">
+                        <span class="rupee"> ₹</span> 2.71 Cr*<br>
+                        <!-- <span class="rupee">(FRC + PLC)</span> -->
+                        <span class="onwards-price">Onwards</span>
+                     </div>
+                     <div class="size-detail">
+                        <sapn>Size</sapn>
+                        <sapn>2260 Sq. Ft</sapn>
+                     </div>
+                     <div class="micro-btn">
+                        <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
+                           Know </button>
+                     </div>
+                  </div>
+               </div>
+               <!-- <div class="col-md-4 mb-3">
+                  <div class="price-box">
+                     <div class="typology">
+                        3.5 BHK
+                     </div>
+                     <div class="price-details">
+                        <span class="rupee"> ₹</span> 2.73 Cr*<br>
+                        <span class="onwards-price">Onwards</span>
+                     </div>
+                     <div class="size-detail">
+                        <sapn>Size</sapn>
+                        <sapn>2257 Sq. Ft</sapn>
+                     </div>
+                     <div class="micro-btn">
+                        <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
+                           Know </button>
+                     </div>
+                  </div>
+               </div> -->
+               <!-- <div class="col-md-4 mb-3">
+                  <div class="price-box">
+                     <div class="typology">
+                        4.5 BHK
+                     </div>
+                     <div class="price-details">
+                        <span class="rupee"> ₹</span> 3.35 Cr*<br>
+                        <span class="onwards-price">Onwards</span>
+                     </div>
+                     <div class="size-detail">
+                        <sapn>Size</sapn>
+                        <sapn>2678 Sq. Ft</sapn>
+                     </div>
+                     <div class="micro-btn">
+                        <button class="query-btn" data-toggle="modal" data-target="#exampleModal">Enquire
+                           Know </button>
+                     </div>
+                  </div>
+               </div>
+            </div> -->
             </div>
-         </div>
       </section>
       <div class="title title-amenities text-center amenities-section common_section" id="amenities"
          style="overflow-x: hidden;">
@@ -508,49 +651,49 @@
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/7.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/pool.png" alt="">
                   <h5>Swimming Pool</h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 540ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/8.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/8.png" alt="">
                   <h5>Indoor Gymnasium</h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 540ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/9.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/1.png" alt="">
                   <h5>Badminton Court</h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/1.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/badminton.png" alt="">
                   <h5>Jogging Track </h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 540ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/yoga.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/yoga.png" alt="">
                   <h5>Yoga Lawn </h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 540ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/4.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/kids.png" alt="">
                   <h5>Kids Play Area </h5>
                </div>
             </div>
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 540ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/11.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/party.png" alt="">
                   <h5>Party Hall & Pantry </h5>
                </div>
             </div>
@@ -564,13 +707,13 @@
             <div class="col-6 col-xl-3 col-md-6 col-sm-6 mb-3">
                <div class="box_facilities" data-cue="slideInUp" data-show="true"
                   style="animation-name: slideInUp; animation-duration: 600ms; animation-timing-function: ease; animation-delay: 180ms; animation-direction: normal; animation-fill-mode: both;">
-                  <img class="icon-img" src="img/amenities/img/pool.webp" alt="">
+                  <img class="icon-img" src="img/amenities/img/shower.png" alt="">
                   <h5>Pool Deck with Shower</h5>
                </div>
             </div>
          </div>
       </div>
-      <section class="floor-section margin_80 common_section" data-jarallax data-speed="0.2" id="floor-plans">
+      <!-- <section class="floor-section margin_80 common_section" data-jarallax data-speed="0.2" id="floor-plans">
          <div class="container-fluid">
             <div class="title col-12 text-center mb-5">
                <small data-cue="slideInUp">Floor Plans</small>
@@ -582,57 +725,54 @@
                <div class="row justify-content-center">
                   <div class="col-md-4 mb-3">
                      <div class="floor-img">
-                        <p>Master Plan</p>
-                        <!-- <a href="img/floor-plans/plan2-sm.webp" class="with-caption image-link"
-                           title="Floor Plan 1"> -->
-                        <img src="img/floor-plans/plan2-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
-                           class="img-fluid ">
-                        <!-- </a> -->
-                        <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal" style="cursor: pointer;">
-                           Enquire Now </h4>
-                     </div>
-                  </div>
-                  <!--<div class="col-md-4 mb-3">
-                     <div class="floor-img">
-                        <p>1 BHK</p>
-                        <!~~ <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link"
-                           title="Floor Plan 1"> ~~>
-                        <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
-                           class="img-fluid ">
-                        <!~~ </a> ~~>
-                        <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal" style="cursor: pointer;">
-                           Enquire Now </h4>
-                     </div>
-                  </div>-->
-                  <div class="col-md-4 mb-3">
-                     <div class="floor-img">
-                        <p>2 BHK</p>
-                        <!-- <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link"
-                           title="Floor Plan 1"> -->
-                        <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
-                           class="img-fluid ">
-                        <!-- </a> -->
-                        <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal" style="cursor: pointer;">
-                           Enquire Now </h4>
+                        <p>3 BHK</p>
+                        <a href="img/floor-plans/plan2-sm.webp" class="with-caption image-link" title="Floor Plan 1">
+                           <img src="img/floor-plans/plan2-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
+                              class="img-fluid ">
+                           <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal"
+                              style="cursor: pointer;">
+                              Enquire Now </h4>
                      </div>
                   </div>
                   <div class="col-md-4 mb-3">
                      <div class="floor-img">
                         <p>3 BHK</p>
-                        <!-- <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link"
-                           title="Floor Plan 1"> -->
-                        <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
-                           class="img-fluid ">
-                        <!-- </a> -->
-                        <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal" style="cursor: pointer;">
-                           Enquire Now </h4>
+                        <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link" title="Floor Plan 1">
+                           <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
+                              class="img-fluid ">
+
+                           <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal"
+                              style="cursor: pointer;">
+                              Enquire Now </h4>
+                     </div>
+                  </div>
+                  <div class="col-md-4 mb-3">
+                     <div class="floor-img">
+                        <p>3 BHK</p>
+                        <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link" title="Floor Plan 1">
+                           <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
+                              class="img-fluid ">
+                           <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal"
+                              style="cursor: pointer;">
+                              Enquire Now </h4>
+                     </div>
+                  </div>
+                  <div class="col-md-4 mb-3">
+                     <div class="floor-img">
+                        <p>3 BHK</p>
+                        <a href="img/floor-plans/plan1-sm.webp" class="with-caption image-link" title="Floor Plan 1">
+                           <img src="img/floor-plans/plan1-sm.webp" style="filter: blur(6px);" alt="Floor Plan"
+                              class="img-fluid ">
+                           <h4 class="floor-type" data-toggle="modal" data-target="#exampleModal"
+                              style="cursor: pointer;">
+                              Enquire Now </h4>
                      </div>
                   </div>
                </div>
             </div>
          </div>
-      </section>
-      <div id="location" class="location common_section">
+      </section> -->
+      <div id="floor-plans" class="location common_section">
          <div class="container margin_80">
             <div class="row justify-content-center d-flex align-items-center">
                <div class="title col-12 text-center mb-5">
@@ -640,42 +780,14 @@
                   <h2 data-delay="100">LAYOUT PLAN</h2>
                </div>
                <div class="col-lg-12">
-                  <div class="location-image">
-                     <a href="img/masterplan.png" class="with-caption image-link" title="Location">
-                        <img src="img/masterplan.png" alt="Floor Plan" class="img-fluid ">
+                  <div class="location-image position-relative">
+                     <a href="img/masterplan.webp" class="with-caption image-link" title="Location">
+                        <img src="img/masterplan.webp" alt="Floor Plan" class="img-fluid">
                      </a>
+                     <!-- <a href="brochure.pdf" class="center-btn" download>DOWNLOAD BROCHURE</a> -->
                   </div>
                </div>
-            </div>
-         </div>
-      </div>
-      <div class="container-fluid bg_white py-5 common_section" id="gallery">
-         <div class="gallerydiv row">
-            <div class="title col-12 text-center mb-5">
-               <small>Gallery Section</small>
-               <h2 data-delay="100">Visualize the Epitome of Luxury
 
-               </h2>
-            </div>
-            <div class="col-6 col-xl-3 cols">
-               <a href="img/gallery/g1.webp" class="with-caption image-link" title="Gallery 1">
-                  <img src="img/gallery/g1.webp" alt="" class="img-fluid ">
-               </a>
-            </div>
-            <div class="col-6 col-xl-3 cols">
-               <a href="img/gallery/g2.webp" class="with-caption image-link" title="Gallery 1">
-                  <img src="img/gallery/g2.webp" alt="" class="img-fluid ">
-               </a>
-            </div>
-            <div class="col-6 col-xl-3 cols">
-               <a href="img/gallery/g3.webp" class="with-caption image-link" title="Gallery 1">
-                  <img src="img/gallery/g3.webp" alt="" class="img-fluid ">
-               </a>
-            </div>
-            <div class="col-6 col-xl-3 cols">
-               <a href="img/gallery/g4.webp" class="with-caption image-link" title="Gallery 1">
-                  <img src="img/gallery/g4.webp" alt="" class="img-fluid ">
-               </a>
             </div>
          </div>
       </div>
@@ -694,44 +806,76 @@
                         </div> -->
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p> JW Marriot - 2.5 Km</p>
+                        <p> RGA Tech Park - 4 mins </p>
                      </div>
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p>Prestige mall - 2.2 Km</p>
+                        <p>Sarjapur Main Road - 1 min </p>
                      </div>
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p> Bangalore signature park - 6Km</p>
+                        <p> Primus Public School - 3 mins</p>
                      </div>
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p> Airport City - 6 Km </p>
+                        <p> Market Square Mall - 4 mins </p>
                      </div>
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p> KIADB Hardware and Areospace park - 8 Km</p>
+                        <p>Manipal Hospital - 15 mins
+                        </p>
                      </div>
                      <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
-                        <p> Airport - 7 Km</p>
+                        <p> Upcoming Metro Station: 15 mins</p>
                      </div>
-                     <div class="high-details">
+                     <!-- <div class="high-details">
                         <span><img class="" src="img/amenities/location.png" alt=""></span>
                         <p> Nearest Metro station (Doddajala) - 4.4 Km</p>
-                     </div>
+                     </div> -->
                   </div>
                </div>
                <div class="col-lg-6">
                   <div class="location-image">
-                     <a href="img/location.webp" class="with-caption image-link" title="Location">
-                        <img src="img/location.webp" alt="Floor Plan" class="img-fluid ">
+                     <a href="img/location.png" class="with-caption image-link" title="Location">
+                        <img src="img/location.png" alt="Floor Plan" class="img-fluid ">
                      </a>
                   </div>
                </div>
             </div>
          </div>
       </div>
+      <div class="container-fluid bg_white py-5 common_section" id="gallery">
+         <div class="gallerydiv row">
+            <div class="title col-12 text-center mb-5">
+               <small>Gallery Section</small>
+               <h2 data-delay="100">Visualize the Epitome of Luxury
+
+               </h2>
+            </div>
+            <div class="col-6 col-xl-3 cols">
+               <a href="img/gallery/g15.jpg" class="with-caption image-link" title="Gallery 1">
+                  <img src="img/gallery/g15.jpg" alt="" class="img-fluid ">
+               </a>
+            </div>
+            <div class="col-6 col-xl-3 cols">
+               <a href="img/gallery/g2.png" class="with-caption image-link" title="Gallery 1">
+                  <img src="img/gallery/g2.png" alt="" class="img-fluid ">
+               </a>
+            </div>
+            <div class="col-6 col-xl-3 cols">
+               <a href="img/gallery/g3.webp" class="with-caption image-link" title="Gallery 1">
+                  <img src="img/gallery/g3.webp" alt="" class="img-fluid ">
+               </a>
+            </div>
+            <div class="col-6 col-xl-3 cols">
+               <a href="img/gallery/g4.jpg" class="with-caption image-link" title="Gallery 1">
+                  <img src="img/gallery/g4.jpg" alt="" class="img-fluid ">
+               </a>
+            </div>
+         </div>
+      </div>
+
       <div class="container-fluid bg-white common_section" id="contact-us">
          <div class="container margin_80">
             <div class="title text-center contact-head">
@@ -742,14 +886,16 @@
                <div class="col-xl-5">
                   <div data-cue="slideInUp">
                      <div class="title">
-                       
+
                         <h4>About Developer</h4>
                         <small>Godrej Properties: A Legacy of Trust and Innovation
 
                         </small>
                      </div>
-                     <p class="about-developer">Godrej Properties, a subsidiary of the esteemed Godrej Group, has been at the forefront of real estate development since 1990. With a commitment to sustainability, innovation, and excellence, the company has transformed urban landscapes across India, delivering homes that resonate with quality and trust.
-
+                     <p class="about-developer">Godrej Properties brings the legacy of the Godrej Group to real estate,
+                        blending 122 years of trust with cutting-edge design and sustainable practices. Recognized with
+                        over 250 awards, including ‘The Most Trusted Real Estate Brand’ and ‘Builder of the Year’, the
+                        company stands as a leader in delivering modern, high-quality urban spaces across India.
                      </p>
                   </div>
                </div>
@@ -759,56 +905,56 @@
                      <small data-cue="slideInUp">Contact Us</small>
                      <h2 data-cue="slideInUp" data-delay="100">We're Here to Help You Find Your Perfect Property</h2>
                      </div> -->
-                     <form action=""  id="form2">
-                  <div id="contactform" autocomplete="off">
-                     <h2 class="form-heading">Send A Message!</h2>
-                     <div class="row">
-                        <div id="note2"></div>
+                  <form action="" id="form2">
+                     <div id="contactform" autocomplete="off">
+                        <h2 class="form-heading">Send A Message!</h2>
+                        <div class="row">
+                           <div id="note2"></div>
 
-                        <div class="col-sm-12">
-                           <div class="form-floating mb-3">
-                              <input class="form-control" type="text" id="name_contact1" name="name_contact"
-                                 placeholder="Name">
-                              <label for="name_contact">Name</label>
+                           <div class="col-sm-12">
+                              <div class="form-floating mb-3">
+                                 <input class="form-control" type="text" id="name_contact1" name="name_contact"
+                                    placeholder="Name">
+                                 <label for="name_contact">Name</label>
+                              </div>
+                           </div>
+                           <div class="col-sm-12">
+                              <div class="form-floating mb-3">
+                                 <input class="form-control phone-input" type="text" id="phone_contact1"
+                                    name="phone_contact" placeholder="Contact No.">
+                                 <!-- <label for="phone_contact">Contact No.</label> -->
+                              </div>
                            </div>
                         </div>
-                        <div class="col-sm-12">
-                           <div class="form-floating mb-3">
-                              <input class="form-control phone-input" type="text" id="phone_contact1"
-                                 name="phone_contact" placeholder="Contact No.">
-                              <!-- <label for="phone_contact">Contact No.</label> -->
+                        <div class="row">
+                           <div class="col-sm-12">
+                              <div class="form-floating mb-3">
+                                 <input class="form-control" type="email" id="email_contact1" name="email_contact"
+                                    placeholder="Email">
+                                 <label for="email_contact">Email</label>
+                              </div>
+                           </div>
+                           <div class="col-sm-12">
+                              <div class="form-floating mb-3">
+                                 <input class="form-control" placeholder="Message" id="message_contact1"
+                                    name="message_contact"></input>
+                                 <label for="message_contact">Message</label>
+                              </div>
                            </div>
                         </div>
-                     </div>
-                     <div class="row">
-                        <div class="col-sm-12">
-                           <div class="form-floating mb-3">
-                              <input class="form-control" type="email" id="email_contact1" name="email_contact"
-                                 placeholder="Email">
-                              <label for="email_contact">Email</label>
+                        <div class="row">
+                           <div class="col-md-12 mb-1">
+                              <p class="footer-submit-btn"><input class="query-btn" type="submit" value="Submit Now"
+                                    id="submit-contact1"></p>
                            </div>
                         </div>
-                        <div class="col-sm-12">
-                           <div class="form-floating mb-3">
-                              <input class="form-control" placeholder="Message" id="message_contact1"
-                                 name="message_contact"></input>
-                              <label for="message_contact">Message</label>
-                           </div>
+                        <div class="inp-box">
+                           <input type="checkbox" checked="" id="vehicle2" name="vehicle2" value="form-checkbox">
+                           <label for="vehicle2" class="inp-txt black"> I authorize company representatives to
+                              Call, SMS, Email or WhatsApp me about its products and offers. This consent
+                              overrides any registration for DNC/NDNC.</label>
                         </div>
                      </div>
-                     <div class="row">
-                        <div class="col-md-12 mb-1">
-                           <p class="footer-submit-btn"><input class="query-btn" type="submit" value="Submit Now"
-                                 id="submit-contact1"></p>
-                        </div>
-                     </div>
-                     <div class="inp-box">
-                        <input type="checkbox" checked="" id="vehicle2" name="vehicle2" value="form-checkbox">
-                        <label for="vehicle2" class="inp-txt black"> I authorize company representatives to
-                           Call, SMS, Email or WhatsApp me about its products and offers. This consent
-                           overrides any registration for DNC/NDNC.</label>
-                     </div>
-                  </div>
                   </form>
                </div>
             </div>
@@ -871,14 +1017,23 @@
             <!-- <div class="footer-line"></div> -->
             <div class="dis">
                <p class="rera-no">
-                  <b>PROJECT RERA NO :</b> PRM/KA/RERA/1250/303/PR/010425/007644<br>
-                  <b> AGENT RERA NO :</b> PRM/KA/RERA/1251/309/AG/220113/002710
+                  <b>PROJECT RERA NO :</b> PRM/KA/RERA/1251/446/PR/300924/007105<br>
+                  <b> AGENT RERA NO :</b> PRM/KA/RERA/1251/310/AG/240610/004856
                </p>
 
                <p class="btm-foot">
-                  Disclaimer - This website belongs to a My Space – Authorized Sales Partner of Brigade Group and is
-                  not managed the Brigade team. The prices mentioned are subject to change without
-                  prior notice, and the availability of properties mentioned is not guaranteed.
+                  This website belongs to Skyros Estate - Authorized Sales Partner of Godrej Properties and is not
+                  managed the Godrej Properties team. The prices mentioned are subject to change without prior notice,
+                  and the availability of properties mentioned is not guaranteed.
+                  he images displayed on the website are for representation purposes only and may not reflect the actual
+                  properties accurately. Please note that this is the official website of an authorized marketing
+                  partner. We may share data with Real Estate Regulatory Authority (RERA) registered brokers/companies
+                  for further processing as required. We may also send updates and information to the mobile number or
+                  email ID registered with us. All rights reserved. The content, design, and information on this website
+                  are protected by copyright and other intellectual property rights. Any unauthorized use or
+                  reproduction of the content may violate applicable laws. For accurate and up-to-date information
+                  regarding services, pricing, availability, and any other details, it is advisable to contact us
+                  directly through the provided contact information on this website. Thank you for visiting our website.
                </p>
                <div class="text-left1 text-center moretext" style="display: none;">
                   <p class="btm-foot"> The images displayed on the website are for representation purposes only
@@ -987,23 +1142,23 @@
                      <p class="modal-para">Tehsil – Mohanlalganj, Raebareli Road, </p> -->
                   <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
                   <div class="banner-form-section" autocomplete="off">
-                     <h3 class="modal-head">Godrej MSR City</h3>
+                     <h3 class="modal-head">Godrej Lakeside Orchard </h3>
                      <!-- <img class="modal-popup-logo img-fluid" src="img/logo-assetz.png" alt=""> -->
-                     <p class="modal-para"> Sarjapur Devanahalli, Bangalore</p>
+                     <p class="modal-para"> Sarjapur Road, Bangalore</p>
                      <div class="row">
                         <div id="note3"></div>
 
                         <div class="col-sm-12">
                            <div class="form-floating mb-3">
                               <input class="form-control" type="text" id="name_contact2" name="name_contact"
-                                 placeholder="Name">
+                                 placeholder="Name" required>
                               <label for="name_contact">Name</label>
                            </div>
                         </div>
                         <div class="col-sm-12">
                            <div class="form-floating mb-3">
-                              <input class="form-control phone-input" type="text" id="phone_contact2" name="phone_contact"
-                                 placeholder="Contact No.">
+                              <input class="form-control phone-input" type="text" id="phone_contact2"
+                                 name="phone_contact" placeholder="Contact No." required>
                               <!-- <label for="phone_contact">Contact No.</label> -->
                            </div>
                         </div>
@@ -1012,7 +1167,7 @@
                         <div class="col-sm-12">
                            <div class="form-floating mb-3">
                               <input class="form-control" type="email" id="email_contact2" name="email_contact"
-                                 placeholder="Email">
+                                 placeholder="Email" required>
                               <label for="email_contact">Email</label>
                            </div>
                         </div>
@@ -1039,7 +1194,7 @@
                   </div>
                </div>
             </form>
-           
+
          </div>
       </div>
    </div>
@@ -1053,8 +1208,8 @@
                <div class="modal-body">
                   <div class="left_col">
                      <div class="content">
-                        <img src="img/strip/Godrej%20MSR%20City%20Pop%20Up.webp" alt="project logo" style="max-width:100%;"
-                           class="img-fluid">
+                        <img src="img/strip/Godrej%20MSR%20City%20Pop%20Up.webp" alt="project logo"
+                           style="max-width:100%;" class="img-fluid">
                      </div>
                   </div>
 
@@ -1063,23 +1218,23 @@
                      <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
                      <form id="form4">
                         <div class="banner-form-section" autocomplete="off">
-                           <h5 class="modal-head text-center">Godrej MSR City</h5>
+                           <h5 class="modal-head text-center">Godrej Lakeside Orchard</h5>
                            <!-- <img class="modal-popup-logo img-fluid" src="img/logo-assetz.png" alt=""> -->
-                           <p class="modal-para"> Sarjapur Devanahalli, Bangalore</p>
+                           <p class="modal-para">Sarjapur Road, Bangalore</p>
                            <div class="row">
                               <div id="note4"></div>
 
                               <div class="col-sm-12">
                                  <div class="form-floating mb-1">
                                     <input class="form-control" type="text" id="name_contact3" name="name_contact"
-                                       placeholder="Name">
+                                       placeholder="Name" required>
                                     <label for="name_contact">Name</label>
                                  </div>
                               </div>
                               <div class="col-sm-12">
                                  <div class="form-floating mb-1">
                                     <input class="form-control phone-input" type="text" id="phone_contact3"
-                                       name="phone_contact" placeholder="Contact No.">
+                                       name="phone_contact" placeholder="Contact No." required>
                                     <!-- <label for="phone_contact">Contact No.</label> -->
                                  </div>
                               </div>
@@ -1088,7 +1243,7 @@
                               <div class="col-sm-12">
                                  <div class="form-floating mb-1">
                                     <input class="form-control" type="email" id="email_contact3" name="email_contact"
-                                       placeholder="Email">
+                                       placeholder="Email" required>
                                     <label for="email_contact">Email</label>
                                  </div>
                               </div>
@@ -1114,11 +1269,8 @@
                            </div>
                         </div>
                      </form>
-                    
                   </div>
                </div>
-
-
             </div>
          </div>
       </div>
@@ -1152,16 +1304,16 @@
       script.src = "https://api2.gtftech.com/scripts/queryform.min.ssl.js?v=" + versionUpdate;
       document.body.appendChild(script);
 
-     
+
 
       $('#preferedtime').hide();
 
-  
- 
-    
 
 
-     
+
+
+
+
 
 
       $(window).scroll(function () {
@@ -1323,65 +1475,151 @@
 
    </script>
    <script>
-      function submitForm(formId, buttonId, noteId, redirectUrl) {
-          $(formId).submit(function (event) {
-              event.preventDefault();
-              $(buttonId).text("Please Wait");
-              $(buttonId).attr('disabled', 'disabled');
-  
-              var formData = {
-                  name: $(formId + ' [name="name_contact"]').val(),
-                  email: $(formId + ' [name="email_contact"]').val(),
-                  phone: $(formId + ' [name="phone_contact"]').val(),
-                  message: $(formId + ' [name="message_contact"]').val(),
-                  subject: "Godrej MSR City",
-                  client:"true",
-                  additionalRecipients: ['sadam@imsolutions.mobi']
-              };
-  
-              $.ajax({
-                  type: "POST",
-                  url: "https://us-central1-email-js-1a09b.cloudfunctions.net/emailjs/submit-form",
-                  data: formData,
-                  success: function (msg) {
-                      $(buttonId).removeAttr('disabled');
-                      $(buttonId).text("Submit");
-                      let result;
-                      if (msg === 'Email sent successfully') {
-                          result = '<p style="color:green; font-weight: 600;font-size: 18px;width:100%">Email Sent Successfully!</p>';
-                          $(noteId).delay(20000).fadeOut();
-                          $(formId)[0].reset();
-                          window.location.href = 'thankyou.php';
-                      } else {
-                          result = msg;
-                      }
-                      $(noteId).html(result);
-                  },
-                  error: function () {
-                      $(buttonId).removeAttr('disabled');
-                      $(buttonId).text("Submit");
-                      $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">Error sending email!</p>');
-                  }
-              });
-              return false;
-          });
+      function isValidEmail(email) {
+         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+         return emailRegex.test(email);
       }
-  
+
+      function isValidPhone(phone) {
+         const phoneRegex = /^\d{10}$/; // You can adjust this based on your format
+         return phoneRegex.test(phone);
+      }
+
+      function submitForm(formId, buttonId, noteId, redirectUrl) {
+         $(formId).submit(function (event) {
+            event.preventDefault();
+
+            const name = $(formId + ' [name="name_contact"]').val().trim();
+            const email = $(formId + ' [name="email_contact"]').val().trim();
+            const phone = $(formId + ' [name="phone_contact"]').val().trim();
+            const message = $(formId + ' [name="message_contact"]').val().trim();
+
+            if (!name || !email || !phone || !message) {
+               $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">All fields are required.</p>');
+               return false;
+            }
+
+            if (!isValidEmail(email)) {
+               $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">Please enter a valid email.</p>');
+               return false;
+            }
+
+            if (!isValidPhone(phone)) {
+               $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">Please enter a valid 10-digit phone number.</p>');
+               return false;
+            }
+
+            $(buttonId).text("Please Wait");
+            $(buttonId).attr('disabled', 'disabled');
+
+            const formData = {
+               name: name,
+               email: email,
+               phone: phone,
+               message: message,
+               subject: "Godrej MSR City",
+               // additionalRecipients: ["sadamhussain4752@gmail.com"]
+            };
+
+            $.ajax({
+               type: "POST",
+               url: "https://mailfuntion-657765394824.asia-south1.run.app/submit-form",
+               data: formData,
+               success: function (msg) {
+                  if (msg === 'Email sent successfully') {
+                     // Now send to LeadRat API and wait for it
+                     $.ajax({
+                        type: "POST",
+                        url: "https://connect.leadrat.com/api/v1/integration/GoogleAds",
+                        headers: {
+                           "API-Key": "MDc2Zjc2NTAtYWEyNy00M2ZmLTk4MzktYmVjZTEyODdhNjYx",
+                           "Content-Type": "application/json"
+                        },
+                        data: JSON.stringify({
+                           name: name,
+                           email: email,
+                           mobile: phone,
+                           notes: message,
+                           state: "Karnataka",
+                           city: "Bangalore",
+                           location: "No-data",
+                           budget: "No-data",
+                           project: "Godrej MSR City",
+                           property: "No-data",
+                           leadExpectedBudget: "No-data",
+                           propertyType: "No-data",
+                           propertySubType: "No-data",
+                           submittedDate: new Date().toISOString().split("T")[0],
+                           submittedTime: new Date().toISOString().split(" ")[0].slice(0, 5),
+                           subsource: "Website",
+                           leadStatus: "New",
+                           callRecordingUrl: "",
+                           leadScheduledDate: "",
+                           leadScheduleTime: "",
+                           bhkType: "No-data",
+                           leadBookedDate: new Date().toISOString().split("T")[0],
+                           leadBookedTime: new Date().toISOString().split(" ")[0].slice(0, 5),
+                           additionalProperties: {
+                              EnquiredFor: "Buy",
+                              BHKType: "Simplex",
+                              NoOfBHK: "3",
+                              key1: "value1",
+                              key2: "value2"
+                           },
+                           countryCode: "91",
+                           primaryUser: "Sales Executive 1",
+                           secondaryUser: "Sales Executive 2"
+                        }),
+                        success: function () {
+                           $(noteId).html('<p style="color:green; font-weight: 600;font-size: 18px;width:100%">Lead submitted successfully!</p>');
+                           $(formId)[0].reset();
+                           $(noteId).delay(20000).fadeOut();
+                           $(buttonId).removeAttr('disabled');
+                           $(buttonId).text("Submit");
+                           if (redirectUrl) {
+                              window.location.href = redirectUrl;
+                           } else {
+                              window.location.href = 'thankyou.php';
+                           }
+                        },
+                        error: function () {
+                           $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">Lead API submission failed!</p>');
+                           $(buttonId).removeAttr('disabled');
+                           $(buttonId).text("Submit");
+                        }
+                     });
+                  } else {
+                     $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">' + msg + '</p>');
+                     $(buttonId).removeAttr('disabled');
+                     $(buttonId).text("Submit");
+                  }
+               },
+               error: function () {
+                  $(noteId).html('<p style="color:red; font-weight: 600;font-size: 18px;width:100%">Error sending email!</p>');
+                  $(buttonId).removeAttr('disabled');
+                  $(buttonId).text("Submit");
+               }
+            });
+
+            return false;
+         });
+      }
+
       $(document).ready(function () {
-          // Apply to all your forms using the existing field structure
-          submitForm("#form1", "#submit-contact", "#note1");
-          submitForm("#form2", "#submit-contact1", "#note2");
-          submitForm("#form3", "#submit-contact2", "#note3");
-          submitForm("#form4", "#submit-contact3", "#note4");
-  
-          // Optional: show popup after delay
-          // setTimeout(function () {
-          //     $("#enquire_form_popup").modal('show');
-          // }, 10000);
+         submitForm("#form1", "#submit-contact", "#note1");
+         submitForm("#form2", "#submit-contact1", "#note2");
+         submitForm("#form3", "#submit-contact2", "#note3");
+         submitForm("#form4", "#submit-contact3", "#note4");
+
+         // Optional popup logic
+         // setTimeout(function () {
+         //     $("#enquire_form_popup").modal('show');
+         // }, 10000);
       });
-  </script>
-  
-  <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/intlTelInput.min.js"></script>
+   </script>
+
+
+   <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/intlTelInput.min.js"></script>
    <script>
 
       $(document).ready(function () {
@@ -1414,9 +1652,10 @@
       });
 
    </script>
-  
+
 </body>
 
 
 <!-- Mirrored from godrejsbangalore.com/godrej-Sarjapur/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Apr 2025 09:59:00 GMT -->
+
 </html>
